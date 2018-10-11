@@ -4,10 +4,10 @@ run-terraform is a python module provide a wrapper of `terraform` command line t
 `terraform` is a tool made by Hashicorp, please refer to https://terraform.io/
 
 ## Prerequisites
-### install python2.7.11 +
-### Install the Azure CLI [https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest]
-### Install the Terraform CLI [https://www.terraform.io/intro/getting-started/install.html]
-### Install the python-terraform by running following cmd
+##### install python2.7.11 +
+##### Install the Azure CLI [https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest]
+##### Install the Terraform CLI [https://www.terraform.io/intro/getting-started/install.html]
+##### Install the python-terraform by running following cmd
   pip install python-terraform
 
 ## Usage
